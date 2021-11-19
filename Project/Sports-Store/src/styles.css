@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+   background-image:linear-gradient(135deg,#FCA78A 50%,#A4B0FF );
+}
+.card-title{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   background-color: #D8DFEE;
+}
+/* .search{
+   align-items: flex-end;
+   width: 30%;
+
+} */
+/* #comsearch {
+   width:30%;
+   float: right;
+   text-align: center;
+} */
+#group{
+   float: right;
+   display: flex;
+   margin-right: 30px;
+}

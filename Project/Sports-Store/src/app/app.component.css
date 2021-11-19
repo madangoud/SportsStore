@@ -1,0 +1,51 @@
+#navbarSupportedContent
+{
+   background-image: linear-gradient(to left,#4A2C40,#E9BD43,#7D3780);
+    margin: 10px;
+    padding: 10px;
+    align-items: flex-start;
+  
+}
+.list-unstyled{
+    align-items:center;
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+
+}
+#form1{
+    background-image:linear-gradient(#2F4454, #DA7B93, #376E6F);
+    padding-top: 40px;
+    margin: 20px;
+    height: 600px;
+}
+
+#btns{
+    background-color: lightsalmon;
+    color: #2F4454;
+    border-color: black;
+    width: 6%;
+    height: 6%;
+    
+}
+.btn{
+    
+    color: #4A2C40;
+    border-radius: 5px;
+    border: none;
+    /* border-bottom:#DA7B93; */
+    font-size: large;
+    margin-right: 20px ;
+
+}
+.my-2{
+    color: white;
+}
+.navbar-toggler-icon{
+   background-color: white;
+   color: red;
+}
+#left{
+    align-items: flex-end;
+    text-align: right;
+}

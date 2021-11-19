@@ -1,0 +1,70 @@
+<nav class="navbar navbar-expand-lg " >
+ 
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#"><button class="btn btn-outline-success">
+          Home
+        </button> <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a  routerLink="Customermanagement" routerLinkActive="active" class="nav-link"> <button class="btn btn-outline-success">Customer</button></a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="itemmanagement" routerLinkActive="active" class="nav-link" href="#">
+          <button class="btn btn-outline-success">Items</button>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="ordermanagement" routerLinkActive="active" class="nav-link" href="#">
+          <button class="btn btn-outline-success">
+          Orders
+          </button>
+        </a>
+      </li>
+      <li class="nav-item" >
+        <div *ngIf="(email == null)">
+        <a routerLink="registration" routerLinkActive="active"  class="nav-link" href="#">
+          <button class="btn btn-outline-success">
+          Register
+        </button>
+        </a>
+      </div>
+      </li>
+      <li class="nav-item" >
+        <div *ngIf="(email == null)">
+        <a routerLink="login" routerLinkActive="active" class="nav-link " href="#">
+          <button  class="btn btn-outline-success">
+          Login
+        </button>
+        </a>
+        </div>
+
+      </li>
+      <li class="nav-item">
+        <div *ngIf="(email != null)">
+        <a  routerLinkActive="active" class="nav-link " (click)="Logout()">
+          <button class="btn btn-outline-success">
+          Logout
+        </button>
+        </a>
+        </div>
+
+      </li>
+    </ul>
+   
+    <!-- <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" id=>Search</button> -->
+  
+    </div>
+   
+     </nav>
+     
+ 
+    
+    <router-outlet></router-outlet>
+

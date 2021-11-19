@@ -1,0 +1,394 @@
+2021-11-18 16:47:42.8572||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 16:48:29.4453||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 16:57:05.7294||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 16:57:15.1776||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 16:57:18.9289||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 16:57:24.3545||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 16:57:35.7117||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 18:43:08.6340||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 18:43:19.7915||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 18:44:05.3600||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:44:05.5080||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:05.5835||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:05.6801||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:22.2580||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:22.2783||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:47.6787||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:47.7876||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:57.8562||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:45:57.9125||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:46:25.4907||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:46:25.5675||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:46:41.5176||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:46:41.5673||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:46:49.0593||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:46:49.1226||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:47:15.9647||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:47:16.1093||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:47:38.6748||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:47:38.7561||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:47:46.2213||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:47:46.2688||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:49:01.2967||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:49:01.3918||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:49:07.6442||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:49:07.7056||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:49:42.7058||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:49:42.8433||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:52:15.8034||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:52:15.9104||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:53:03.5763||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:53:03.6181||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:53:15.5137||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:53:15.5404||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:53:27.6771||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:53:27.7103||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:01.2065||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:01.2593||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:17.0969||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:17.1206||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:31.1192||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:31.1546||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:51.7763||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:54:51.8477||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:55:07.3815||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:55:07.4050||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:56:24.4060||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:56:24.4705||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:57:09.4695||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:57:09.5664||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:58:26.7235||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:58:26.7850||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:59:05.7155||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:59:05.7430||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:59:14.5394||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 18:59:14.6788||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 18:59:17.1043||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 18:59:17.1426||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 18:59:17.8342||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 18:59:17.8506||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:00:00.2760||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:00:00.3136||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:00:15.0619||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:00:15.1098||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:01:24.5552||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:01:24.6124||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:01:32.0900||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:01:32.1644||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:01:38.9711||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:01:39.0462||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:10:23.1956||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:10:24.0331||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:11:32.1620||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:11:32.1845||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:11:48.0143||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:11:48.0143||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:12:07.1269||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:12:07.1408||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:12:41.7950||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:12:41.8131||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:13:26.8781||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:13:26.9014||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:13:31.7559||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:13:31.7841||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:13:42.8241||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:13:42.8241||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:14:00.9694||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:14:00.9793||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:14:30.8795||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:14:30.9061||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:14:52.4190||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:14:52.4479||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:15:21.5938||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:15:21.6224||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:15:33.8551||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:15:33.8789||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:19:31.6242||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:19:31.6980||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:19:35.1123||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:19:35.1277||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:19:57.0277||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:19:57.0524||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:20:22.6932||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:20:22.7629||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:22:58.8623||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:22:58.9624||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:23:23.0366||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:23:23.0689||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:23:53.7312||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:23:53.7512||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:24:15.5823||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:24:15.6123||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:24:38.1818||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:24:38.2113||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:24:59.6866||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:24:59.7138||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:27:27.0803||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:27:27.0941||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:28:36.4350||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:28:36.4573||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:29:49.5010||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:29:49.5184||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:29:59.5775||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:29:59.5775||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:30:11.3610||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:30:11.3728||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:30:37.0623||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:30:37.0782||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:30:55.2307||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:30:55.2307||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:31:12.0014||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:31:12.0111||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:31:28.0798||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:31:28.0901||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:31:49.9862||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:31:49.9953||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:32:17.8877||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:32:17.9196||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:32:30.4361||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:32:30.4361||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:32:47.3951||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:32:47.4036||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:12.9305||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:12.9582||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:27.0531||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:27.0674||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:39.4711||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:39.4804||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:53.8255||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:33:53.8255||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:34:05.5594||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:34:05.5594||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:34:36.8434||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:34:36.8661||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:35:03.5413||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:35:03.5582||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:35:19.1505||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:35:19.1578||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:35:31.1954||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:35:31.2114||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:37:11.4656||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:37:11.4976||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:37:22.0576||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:37:22.0576||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:37:30.3648||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:37:30.3786||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:38:04.4785||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:38:04.5139||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:38:49.8048||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:38:49.8255||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:39:12.7630||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:39:12.7943||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:39:19.2717||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:39:19.2789||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:39:35.9122||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:39:35.9206||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:40:04.8583||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:40:04.8906||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:43:54.7209||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:43:54.8073||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:44:09.2979||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:44:09.3095||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:44:52.1308||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:44:52.1672||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:45:09.0696||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:45:09.0788||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:46:38.8152||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:46:38.8385||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:46:46.6920||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:46:46.7052||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:46:57.6700||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:46:57.6700||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:07.1521||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:07.1521||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:21.3889||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:21.3889||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:38.2455||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:38.2455||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:46.1261||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:46.1388||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:52.7880||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:47:52.7967||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:05.6046||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:05.6046||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:18.0571||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:18.0703||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:43.8608||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:43.8961||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:48:57.9314||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:48:57.9568||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:49:44.9321||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:49:44.9631||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:18.2396||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:18.2734||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:52.3430||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:52.4891||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:53.4365||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:50:53.4365||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:50:55.1939||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:55.2041||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:50:57.4504||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:50:57.4504||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:52:04.8759||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:52:04.8889||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:52:13.0098||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:52:13.0228||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 19:52:18.4440||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:52:18.4550||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:52:54.8953||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:52:54.9784||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:53:30.5303||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:53:30.5534||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:53:36.1138||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:53:36.1237||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:53:55.7814||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:53:55.7814||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:54:05.7932||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:54:05.8089||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:54:14.7621||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:54:14.7621||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:55:01.3636||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:55:01.3954||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:55:28.8851||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:55:28.9583||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:56:11.6784||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 19:56:11.7122||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:00:23.6693||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:00:23.8002||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:00:30.6545||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:00:30.6732||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:00:43.1040||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:00:43.1157||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:01:39.4187||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:01:39.4556||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:02:00.9144||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:02:00.9750||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:02:44.1258||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:02:44.1439||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:02:54.1449||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:02:54.1618||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:03:01.3548||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:03:01.3548||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:03:16.3212||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:03:16.3303||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:06:04.8929||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:06:04.9231||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:07:36.4055||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:07:36.4510||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:08:19.0148||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:08:19.0459||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:08:37.2448||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:08:37.2448||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:09:47.6998||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:09:47.7420||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:12.1612||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:12.1804||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:29.4488||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:29.4915||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:35.6713||WARN|sportstore.Services.LoggerService|Item  Deleted 
+2021-11-18 20:11:35.6713||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:55.5265||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:11:55.5265||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:12:20.4884||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:12:20.5153||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:16:44.2793||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:16:44.4251||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:05.5902||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:05.6302||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:29.9155||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:29.9453||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:38.7049||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:38.7146||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:49.3264||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 20:17:49.3264||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 20:17:53.5304||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:17:53.5304||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:19:57.2604||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:19:57.2772||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:20:18.4039||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:20:18.4514||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:21:52.3149||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:21:52.3302||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:23:12.3893||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 20:23:12.4774||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:36:28.3113||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:36:28.3341||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:36:35.7156||WARN|sportstore.Services.LoggerService|Item  Deleted 
+2021-11-18 21:36:35.7156||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:36:44.1769||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:36:44.1845||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:37:17.3807||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:37:17.4306||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:37:21.7756||WARN|sportstore.Services.LoggerService|Item  Deleted 
+2021-11-18 21:37:22.2317||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:37:22.3661||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:43:57.8315||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:43:57.8434||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:23.7023||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 21:53:23.7023||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 21:53:26.3158||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:26.3310||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:30.8112||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:30.8112||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:32.4273||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 21:53:32.4375||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 21:53:34.8905||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:34.9021||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:39.8674||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:39.8768||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:43.4996||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:53:43.5112||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:55:56.4695||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:55:56.4805||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:55:59.4036||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:55:59.4213||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:56:02.6653||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 21:56:02.6758||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 22:09:59.6355||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:15:28.3304||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:15:31.8096||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:17:11.6022||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:19:20.7479||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:19:46.4139||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:19:51.2030||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:20:15.0712||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:20:31.5352||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:20:43.3094||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:20:54.2814||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:21:07.9253||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:21:20.3058||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:21:30.7559||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:21:53.2292||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:22:08.5952||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:22:21.6869||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:22:28.3444||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:22:40.1314||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:22:49.5720||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:23:34.4815||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:23:56.9045||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:25:06.6335||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:25:21.6685||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:25:40.3196||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:25:50.9213||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:26:04.0397||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:26:11.4707||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:26:17.6525||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:26:41.6641||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:26:49.3989||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:27:09.0025||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:27:28.1818||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:27:47.6144||INFO|sportstore.Services.LoggerService|Customer List accessed by Id 
+2021-11-18 22:42:02.0592||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 22:42:34.0361||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 22:42:42.3355||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 22:43:09.5953||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 22:44:30.6364||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 23:08:08.8929||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 23:08:08.9191||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 23:08:11.9666||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 23:08:11.9925||INFO|sportstore.Services.LoggerService|Customer List accessed 
+2021-11-18 23:08:13.3315||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 23:08:13.3424||INFO|sportstore.Services.LoggerService|Item list accessed 
+2021-11-18 23:25:25.1152||INFO|sportstore.Services.LoggerService|Item list accessed by id 
+2021-11-18 23:26:50.5806||INFO|sportstore.Services.LoggerService|User Added 
+2021-11-18 23:35:17.7969||INFO|sportstore.Services.LoggerService|User Added 

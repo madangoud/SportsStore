@@ -1,0 +1,20 @@
+
+<div class="container">
+<form [formGroup]="addform" (ngSubmit)="Submit()" class="center">
+    <!-- <label for="id">Id</label><br/>
+    <input type="number"  formControlName="customerNumber" id="id"/><br/> -->
+    <label for="name">Name</label><br/>
+    <input type="text" formControlName="itemName" id="itemName" /><br/>
+    <label for="contact">itemValue</label><br/>
+    <input type="number" formControlName="itemValue" id="itemValue" /><br/>
+    <label for="address">color</label><br/>
+    <input type="text" formControlName="color" id="color" /><br/>
+    <label for="email">size</label><br/>
+    <input type="number" formControlName="size" id="size" /><br/><br/>
+    
+    <div class="add"><button class="btn btn-outline-secondary">
+         <span><img src="assets/images/plus.svg" height="25%" width="25%" /></span>&nbsp;Add Item
+    </button></div>
+    
+</form>
+</div>

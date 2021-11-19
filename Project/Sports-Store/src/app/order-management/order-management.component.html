@@ -1,0 +1,71 @@
+
+<!-- <div class="form-group has-search d-flex">
+     <span class="fa fa-search form-control-feedback"></span> 
+    <span><img src="assets/images/search.svg" class="search"/></span>&nbsp;
+    <input type="text" class="form-control" placeholder="Search by item  name" [(ngModel)]="searchText" (input)="Search()">
+  </div> -->
+  <div class="add"> <a routerLink="addorder" routerLinkActive="active"  class="btn btn-light">
+    <span><img src="assets/images/plus.svg" class="search"/></span>&nbsp;
+    Add Orders</a>  
+  </div>
+
+<div class="test">
+    <!--<div class="card" style="width: 18rem;">
+        <img  src="assets/images/c1.jpg" class="card-img-top" alt="Card image cap" id="img" width="100" height="100">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+<a  routerLinkActive="active" class="nav-link " (click)="Logout()">
+          <button class="btn btn-outline-success">
+          Logout
+        </button>
+        </a>
+
+
+
+
+
+    -->
+      <div *ngIf="(orders.length > 0) then iblock else eblock"></div>
+      <ng-template #iblock>
+          <div *ngFor="let item of orders">
+        <div class="card" style="width: 18rem;">
+            <img  src="assets/images/c1.jpg" class="card-img-top" alt="Card image cap" id="img" width="100" height="100">
+            <div class="card-body">
+             
+                <h5 class="card-title">{{item.orderNumber}}</h5>
+   
+              <h5 class="card-title">{{item.orderDate}}</h5>
+              <a routerLink="/custorder/{{item.customerNumber}}" routerLinkActive="active" class="nav-link" data-toggle="tooltip" title="Click to Know about Customer"> 
+              <h5 class="card-title"><span class="span">CustomerNumber-&nbsp;</span>{{item.customerNumber}}</h5>
+              </a>
+              <a routerLink="/itemlist/{{item.itemNumber}}" routerLinkActive="active" class="nav-link" data-toggle="tooltip" title="Click to Know about Item" > 
+              <h5 class="card-title"><span class="span">ItemNumber-&nbsp;</span>{{item.itemNumber}}</h5>
+              </a>
+              <h5 class="card-title">{{item.deliveryDate}}</h5>
+              <h5 class="card-title">{{item.paymentMode}}</h5>
+             <a routerLink="editorder/{{item.orderNumber}}" routerLinkActive="active"  class="btn btn-primary">Edit</a>
+             
+             <button (click)="delete(item.orderNumber)" class="btn btn-danger">
+                Delete
+             </button>
+            
+            </div>
+          </div>
+        </div>
+      </ng-template>
+      <ng-template #eblock>
+          <h1>NO RECORDS FOUND...!!1</h1>
+      </ng-template>
+    
+    </div>
+    
+    
+    
+    
+      
+        
+     

@@ -1,0 +1,22 @@
+<div class="container">
+<form [formGroup]="addform" (ngSubmit)="Submit()" class="center">
+    <!-- <label for="id">Id</label><br/>
+    <input type="number"  formControlName="customerNumber" id="id"/><br/> -->
+    
+    <label for="orderDate">orderDate</label><br/>
+    <input type="date" formControlName="orderDate" id="orderDate" /><br/>
+    <label for="customerNumber">customerNumber</label><br/>
+    <input type="number" formControlName="customerNumber" id="customerNumber" /><br/>
+    <label for="itemNumber">itemNumber</label><br/>
+    <input type="number" formControlName="itemNumber" id="itemNumber" /><br/><br/>
+    <label for="deliveryDate">orderDelivery</label><br/>
+    <input type="date" formControlName="deliveryDate" id="deliveryDate" /><br/><br/>
+    <label for="paymentMode">paymentMode</label><br/>
+    <input type="text" formControlName="paymentMode" id="paymentMode" /><br/><br/>
+    
+    <button class="btn btn-outline-secondary"> <span><img src="assets/images/plus.svg" height="25%" width="25%"/></span>&nbsp;
+        Add Order
+    </button>
+    
+</form>
+</div>
