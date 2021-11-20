@@ -27,7 +27,8 @@
         </a>
       </li>
       <li class="nav-item" >
-        <div *ngIf="(email == null)">
+        <!-- <div *ngIf="(email == null)"> -->
+          <div> 
         <a routerLink="registration" routerLinkActive="active"  class="nav-link" href="#">
           <button class="btn btn-outline-success">
           Register
@@ -36,7 +37,8 @@
       </div>
       </li>
       <li class="nav-item" >
-        <div *ngIf="(email == null)">
+        <!-- <div *ngIf="(email == null)"> -->
+          <div > 
         <a routerLink="login" routerLinkActive="active" class="nav-link " href="#">
           <button  class="btn btn-outline-success">
           Login
@@ -46,7 +48,8 @@
 
       </li>
       <li class="nav-item">
-        <div *ngIf="(email != null)">
+        <div > 
+        <!-- <div *ngIf="(email != null)"> -->
         <a  routerLinkActive="active" class="nav-link " (click)="Logout()">
           <button class="btn btn-outline-success">
           Logout

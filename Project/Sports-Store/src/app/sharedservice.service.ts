@@ -96,6 +96,25 @@ export class SharedserviceService {
   getitemById(val:number){
     return  this.http.get<Item>(this.APIUrl+"/Items/itemlist/"+val);
   }
+
+  isTokenExpired(){
+
+    const token = sessionStorage.getItem('email')
+    console.log(token);
+    if(token)
+    {
+  
+          return true 
+    }
+    else
+    {
+      return false
+    }
+  }
+
+
+
+
   }
 
  

@@ -16,8 +16,13 @@ export class OrderManagementComponent implements OnInit {
   orders:Order[]=[];
   searchText: string = "";
   displayItems: any= [];
+ 
   ngOnInit(): void {
     // location.reload();
+  
+    // if(this.count==1)
+    //   location.reload();
+ 
     if(this.semail == null) {
       this.route.navigateByUrl("login");
     }
@@ -25,7 +30,7 @@ export class OrderManagementComponent implements OnInit {
     this.service.getOrderList().subscribe(data=>
       {
         this.orders=data;
-       
+        
         console.log(data);
       })
   }

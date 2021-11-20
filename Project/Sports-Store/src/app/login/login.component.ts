@@ -29,8 +29,9 @@ export class LoginComponent implements OnInit {
           {
             sessionStorage.setItem("email",this.loginform.controls['email'].value);
             // alert("login Success");
-            location.reload();
+            
             this.route.navigateByUrl("ordermanagement");
+            // location.reload();
           }
           else{
             alert("login failed");

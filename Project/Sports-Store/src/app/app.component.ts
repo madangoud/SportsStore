@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { AuthGuard } from './guards/auth.guard';
+import { SharedserviceService } from './sharedservice.service';
 
 @Component({
   selector: 'app-root',
@@ -6,12 +8,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  constructor(public auth:AuthGuard,public service:SharedserviceService){
+    console.log(auth);
+  }
   title = 'Sports-Store';
  email:any=sessionStorage.getItem("email");
  
  Logout() {
    sessionStorage.removeItem("email");
-   location.reload();
+  //  location.reload();
  }
 
 }

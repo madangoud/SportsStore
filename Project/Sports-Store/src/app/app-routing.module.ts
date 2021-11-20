@@ -5,6 +5,7 @@ import { AddEditCustomerComponent } from './customermanagement/add-edit-customer
 import { CustomermanagementComponent } from './customermanagement/customermanagement.component';
 import { ShowCustomerComponent } from './customermanagement/show-customer/show-customer.component';
 import { CustorderComponent } from './custorder/custorder.component';
+import { AuthGuard } from './guards/auth.guard';
 import { HomepageComponent } from './homepage/homepage.component';
 import { ItemlistComponent } from './itemlist/itemlist.component';
 import { AddItemComponent } from './itemmanagement/add-item/add-item.component';
@@ -53,10 +54,10 @@ const routes: Routes = [
     path:'ordermanagement/editorder/:cid',component:EditorderComponent
   },
   {
-    path:'registration',component:RegistrationComponent
+    path:'registration',component:RegistrationComponent,canActivate:[AuthGuard]
   },
   {
-    path:'login',component:LoginComponent
+    path:'login',component:LoginComponent,canActivate:[AuthGuard]
   },
   {
     path:'custorder/:cid',component:CustorderComponent
