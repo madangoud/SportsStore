@@ -47,6 +47,7 @@ export class CustomermanagementComponent implements OnInit {
   delete(id:number){
     this.service.deleteCustomer(id).subscribe(data=>{
     this.refreshEmpList();
+    location.reload();
     });
     
   }

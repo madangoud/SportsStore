@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 import { AuthGuard } from './guards/auth.guard';
 import { SharedserviceService } from './sharedservice.service';
 
@@ -8,7 +9,7 @@ import { SharedserviceService } from './sharedservice.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  constructor(public service:SharedserviceService){
+  constructor(public service:SharedserviceService,private router:Router){
 
   }
   title = 'Sports-Store';
@@ -16,6 +17,7 @@ export class AppComponent {
  
  Logout() {
    sessionStorage.removeItem("email");
+   this.router.navigate(["/login"])
   //  location.reload();
  }
 

@@ -7,7 +7,7 @@ form,body{
     align-items: center;
 }
 input{
-    width: 30%;
+    width: 250px;
     box-sizing: border-box;
     border:2px solid greenyellow;
 }
@@ -23,7 +23,7 @@ label{
     background-color:dimgrey;
     padding: 20px;
     height: 100%;
-    width: auto;
+    max-width: 600px;
     color: wheat;
    
 }
