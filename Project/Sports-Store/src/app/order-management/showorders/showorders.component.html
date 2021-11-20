@@ -1,0 +1,43 @@
+<div class="container">
+    <div class="container-fluid">
+    
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th>
+                    orderNumber
+                </th>
+                <th>
+                    orderDate
+                </th>
+                <th>
+                    customerNumber
+                </th>
+                <th>
+                    itemNumber
+                </th>
+                <th>
+                    deliveryDate
+                </th>
+                <th>
+                    paymentMode
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of or">
+                <td>{{item.orderNumber}}</td>
+                <td>{{item.orderDate}}</td>
+                <td>$.{{item.customerNumber}}</td>
+                <td>{{item.itemNumber}}</td>
+                <td>{{item.deliveryDate}}</td>
+                <td>{{item.paymentMode}}</td>
+        
+            </tr>
+        </tbody>
+        
+        
+        
+        </table>
+    </div>
+    </div>

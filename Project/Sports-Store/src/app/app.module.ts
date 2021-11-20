@@ -22,6 +22,8 @@ import { RegistrationComponent } from './registration/registration.component';
 import { LoginComponent } from './login/login.component';
 import { CustorderComponent } from './custorder/custorder.component';
 import { ItemlistComponent } from './itemlist/itemlist.component';
+import { ShowitemsComponent } from './itemmanagement/showitems/showitems.component';
+import { ShowordersComponent } from './order-management/showorders/showorders.component';
 
 @NgModule({
   declarations: [
@@ -41,7 +43,9 @@ import { ItemlistComponent } from './itemlist/itemlist.component';
     RegistrationComponent,
     LoginComponent,
     CustorderComponent,
-    ItemlistComponent
+    ItemlistComponent,
+    ShowitemsComponent,
+    ShowordersComponent
  
   ],
   imports: [

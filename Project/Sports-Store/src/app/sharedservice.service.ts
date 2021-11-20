@@ -77,13 +77,19 @@ export class SharedserviceService {
    getbyOrderid(val:number){
       return this.http.get<Order>(this.APIUrl+"/Orders/"+val);
     }
+
+
   //registration Management
-  addUser(val:Registration){
+  addUser(val:Registration): Observable<any>{
     return this.http.post<any>(this.APIUrl+'/Registrations',JSON.stringify(val),this.httpOptions);
   }
+  //login
   login(val:Login){
     return this.http.post<any>(this.APIUrl+'/Login/login',JSON.stringify(val),this.httpOptions);
   }
+
+
+  //ordermanagement
   getcustomerById(val:number){
     return  this.http.get<Customer>(this.APIUrl+"/Customers/orderlist/"+val);
   }

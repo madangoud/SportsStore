@@ -21,12 +21,7 @@ export class CustorderComponent implements OnInit {
         this.cust=data;
       })
   }
-  Submit(){
     
-  }
-  refreshList(){
-    
-  }
 }
 
 

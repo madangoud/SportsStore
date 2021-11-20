@@ -49,3 +49,6 @@
     align-items: flex-end;
     text-align: right;
 }
+.container{
+    text-align: center;
+}
