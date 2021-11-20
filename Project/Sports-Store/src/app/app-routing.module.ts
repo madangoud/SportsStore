@@ -54,10 +54,10 @@ const routes: Routes = [
     path:'ordermanagement/editorder/:cid',component:EditorderComponent
   },
   {
-    path:'registration',component:RegistrationComponent,canActivate:[AuthGuard]
+    path:'registration',component:RegistrationComponent
   },
   {
-    path:'login',component:LoginComponent,canActivate:[AuthGuard]
+    path:'login',component:LoginComponent
   },
   {
     path:'custorder/:cid',component:CustorderComponent

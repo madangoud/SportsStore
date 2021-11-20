@@ -8,8 +8,8 @@ import { SharedserviceService } from './sharedservice.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  constructor(public auth:AuthGuard,public service:SharedserviceService){
-    console.log(auth);
+  constructor(public service:SharedserviceService){
+
   }
   title = 'Sports-Store';
  email:any=sessionStorage.getItem("email");
