@@ -48,3 +48,7 @@
 .list{
     align-items: flex-start;
 }
+.heading{
+    background-color: blanchedalmond;
+    width: 25%;
+}

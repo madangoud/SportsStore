@@ -1,9 +1,11 @@
 #navbarSupportedContent
 {
-   background-image: linear-gradient(to left,#4A2C40,#E9BD43,#7D3780);
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
     margin: 10px;
     padding: 10px;
     align-items: flex-start;
+   
   
 }
 .list-unstyled{
@@ -30,7 +32,7 @@
 }
 .btn{
     
-    color: #4A2C40;
+    color: white;
     border-radius: 5px;
     border: none;
     /* border-bottom:#DA7B93; */

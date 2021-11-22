@@ -1,0 +1,14 @@
+
+.container-fluid{
+    padding: 30px;
+    margin: 10px x;
+}
+.list{
+    align-items: flex-start;
+}
+.add{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+   
+ }

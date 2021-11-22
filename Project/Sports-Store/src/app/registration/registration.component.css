@@ -9,7 +9,7 @@ form,body{
 input{
     width: 250px;
     box-sizing: border-box;
-    border:2px solid greenyellow;
+    border:2px solid black;
 }
 input:focus{
     background-color: lightblue;
@@ -20,11 +20,14 @@ label{
 }
 .container{
     border-radius: 5px;
-    background-color:dimgrey;
+    background-color: #e2d5e6;
+    background-image: linear-gradient(315deg, #e2d5e6 0%, #e1d4e6 74%);
+    
+   /* url("/assets/images/bg2.jpg"); */
     padding: 20px;
     height: 100%;
-    max-width: 600px;
-    color: wheat;
+    max-width: 800px;
+    color: darkslategray;
    
 }
 .btn{
@@ -32,6 +35,6 @@ label{
     color: black;
     
 }
-p,a{
+p{
     color: black;
 }

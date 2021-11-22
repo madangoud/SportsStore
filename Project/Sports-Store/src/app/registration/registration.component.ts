@@ -28,7 +28,8 @@ export class RegistrationComponent implements OnInit {
       alert("enter  Email Address")
       return;
     }
-    if(!/^[a-z0-9!#$%&'*+\/=?^_`{|}~.-]+@[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)*$/i.test(this.addform.value.email)){
+    if(!/^[a-z0-9!#$%&'*+\/=?^_`{|}~.-]+@[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)*$/i.test(this.addform.value.email))
+    {
     
       alert("enter valid  Email Address")
       return;
@@ -51,7 +52,7 @@ export class RegistrationComponent implements OnInit {
       });
   }
   else{
-    alert("please enter valid length minimum 4")
+    alert("please enter valid length minimum 4 characters for each field")
   }
     // console.log(this.addform.value);
    
